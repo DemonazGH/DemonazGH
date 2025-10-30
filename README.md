@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Dzmitry Salavei
-- 👀 I’m interested in Kotlin and Jetpack Compose
-- 🌱 I’m currently learning Kotlin and Jetpack Compose
-- 💞️ I’m looking to collaborate on Kotlin/Android projects
+- 👀 I’m interested in AI
 - 📫 How to reach me 6583865@gmail.com
 
 <!---
